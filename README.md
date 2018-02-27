@@ -34,6 +34,7 @@ def hello(array)
   end
 end
 ```
+Refactor code
 
 In this method, we are using a `while` loop to iterate over an array and yielding each member of the array in turn to a block. 
 
